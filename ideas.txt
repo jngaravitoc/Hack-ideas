@@ -1,0 +1,8 @@
+Holographic Microscope
+Holographic Telescope
+Blind visualization
+UV lamp
+
+---------------------------
+What I need to learn:
+1. Arduino
